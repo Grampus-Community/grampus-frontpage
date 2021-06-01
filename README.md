@@ -5,6 +5,8 @@
 
 3 可swap add / remove lp
 
-4 加syrup 挖矿
+4 加stake token 挖矿
+
+5 加stake lp 挖矿
 
 网站在 http://47.117.48.209/
