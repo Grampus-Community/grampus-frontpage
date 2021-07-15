@@ -1,7 +1,7 @@
 # grampus-frontpage
-1 运行在hceo
+1 运行在hceo / hsc
 
-2 使用mdex的lp合约
+2 使用mdex / pudding 的lp合约
 
 3 可swap add / remove lp
 
@@ -9,4 +9,8 @@
 
 5 加stake lp 挖矿
 
-网站在 http://47.117.48.209/
+6 create nft
+
+7 trade nft
+
+网站在 https://grampus.live/
